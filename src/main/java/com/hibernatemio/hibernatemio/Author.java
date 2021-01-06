@@ -13,7 +13,7 @@ public class Author {
 	@GeneratedValue
 	private Integer id;
 	private String name;
-	
+	private String lacoco;
 
 	public Integer getId() {
 		return id;
