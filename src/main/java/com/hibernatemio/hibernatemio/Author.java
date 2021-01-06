@@ -14,6 +14,7 @@ public class Author {
 	private Integer id;
 	private String name;
 	private String lacoco;
+	private String popo;
 
 	public Integer getId() {
 		return id;
