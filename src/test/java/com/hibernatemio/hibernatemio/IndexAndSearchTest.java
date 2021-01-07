@@ -23,7 +23,7 @@ import org.hibernate.search.jpa.FullTextEntityManager;
 import org.hibernate.search.jpa.FullTextQuery;
 
 import static org.junit.Assert.assertEquals;
-
+//LACO
 /**
  * Example testcase for Hibernate Search
  */
